@@ -3,3 +3,4 @@ TTS
 torch
 torchaudio
 git+https://github.com/openai/whisper.git
+express
